@@ -1,7 +1,7 @@
--  Hi, I’m @adarsh272
--  I’m interested in Front end web development, machine learning, data science and graphic design
--  I’m currently learning Web Development
--  I’m looking to collaborate on any project that will challenge my current abilities
+-  Hello, My name is Adarsh Tiwari and I am a computer science graduate.
+-  I am a front end developer by choice, translating UI designs into efficient code combining with buisness logic.
+-  I’m eager to learn and master new technologies.
+-  I’m looking for a jon role that aligns with my expertise, although I'm ready to adapt to the company's requirements
 -  You can reach me on instagram @adarshtiwaari.py or email me on adarshtiwari272@gmail.com
 
 <!---
