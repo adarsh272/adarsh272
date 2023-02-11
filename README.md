@@ -1,7 +1,8 @@
 -  Hello, My name is Adarsh Tiwari and I am a computer science graduate.
--  I am a front end developer by choice, translating UI designs into efficient code combining it with buisness logic.
--  I’m eager to learn and master new technologies.
--  I’m looking for a job role that aligns with my expertise, although I'm ready to adapt to the company's requirements
+-  I am a data enthusiast with strong knowledge of EDA and machine learning
+-  I’m eager to learn and master new technologies and I use this github portfolio to do more projects across a wide array of industries
+-  I’m looking for opportunities that aligns with my expertise, where I can learn and implement various projects that can help keeps businessses afloat and healthy
+-  My preffered domains are => Healthcare, Entertainment and Psychology
 -  You can reach me on instagram @adarshtiwaari.py or email me on adarshtiwari272@gmail.com
 
 <!---
